@@ -11,5 +11,15 @@
     "email": "test@vallagena.com",
     "password": "vallagena",
     "id": "c796eff4"
+  },
+  {
+    "email": "test@hash.com",
+    "password": "fc0f2185ae362abd360c91f067fcd408150ba2de3880a3515b8a8bc783de7a897563ddebe45125a4d9b295e28db2481e60cf715391eef8fa7f5deed9a407fa25.adbf6521cde0c42f",
+    "id": "9acdbc12"
+  },
+  {
+    "email": "test@salt.com",
+    "password": "2510ac5718ed0252c76622783c7748e4685e1911febe7c4ffe41f39e6861b3ee9ceaebc38cdb4eb43326936e87227907891ed79f2e794f9d51f9ea673d51c41b.7d7549772cf5fea9",
+    "id": "73ed9fae"
   }
 ]
