@@ -51,7 +51,7 @@ module.exports = {
        }
  
       const validPassword = await usersRepo.comparePasswords(
-        user.password,
+       user.password,
        password
       );
       if(!validPassword){
